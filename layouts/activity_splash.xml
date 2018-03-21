@@ -1,0 +1,5 @@
+<android.support.design.widget.CoordinatorLayout
+xmlns="...."
+android:fitsSystemWindows="true"
+tools:context="com.g_e_e_k.scoolbuddy.ui.activities.SplashActivity"
+>
